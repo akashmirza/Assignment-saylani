@@ -1,105 +1,30 @@
 
-.size{
-
-    font-size: 80px;
+#gradient{
+            background: #BA8B02;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #181818, #BA8B02);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #181818, #BA8B02); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
-
-
-.box1{
-
-    display: inline-block;
-    background-color: #f7c9c9;
-    color: rgb(226, 0, 0);
-    padding: 5px 15px;
-    margin: 0px;
-    border-radius: 50px;
+#bg{
+        background-color: #c9c9c9;
 }
-.imagefi{
+.adi:hover{
 
-    width: 50px;
-    margin: 70px auto;
-}
-.imagefii{
-
-    width: 560px;
-}
-.r2{
-
-    background:  #ffe6e6;
-}
-.imgart{
-
-    width: 20px;
-}
-.redb{
-
-    display: inline-block;
-    padding: 10px 25px;
-    border-radius: 55px;
-    background-color: #fc0000;
-    color: white;
-}
-/* .icons{
-
-    font-size: 50px;
-    padding: 20px 0px;
-    color: #fc0000;
-    
-
-} */
-.wi{
-
-    width: 300px;
-}
-.boxx{
-
-    border: 1px solid gray;
-    border-radius: 30px;
-    padding: 20px;
-}
-.boxpink{
-
-    background:  #ffe6e6;
-    display: inline-block;
-    width: 400px;
-    text-align: left;
-    padding: 10px;
-    border-radius: 10px;
-}
-.boxx1{
-
-    background:  #ffe6e6;
-    padding: 10px;
-    text-align: left;
-    border-radius: 10px;
-    
-}
-.ikh{
-       width: 200px;
-}
-.imgpnga{
-
-    width: 200px;
-}
-.hji{
-
-    display: inline-block;
-    padding: 5px 20px;
+    background-color: rgba(255, 255, 255, 0.298);
     border-radius: 5px;
-    background-color: #fd0000;
-    color: white;
-
+    
+    
+    
 }
-.ijjj{
+footer p{
 
-    font-size: 50px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
 }
-.ii{
-    display: inline-block;
-    margin: 0px 20px;
+.iconmob{
+
+    font-size: 100px;
 }
+.border:hover{
 
-.okok{
-
-    z-index: 1;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
